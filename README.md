@@ -33,7 +33,6 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/Maheabul-ofc/Simon-Says-Game.git
-   ```
 2. **cd simon-says-game**:
    ```bash
    cd simon-says-game
@@ -60,9 +59,8 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
 3. **Commit Your Changes**:
    ```bash
    git commit -m 'Add some feature'
-4.**Push to the Branch**: 
-```bash
-git push origin main
-```
+4. **Push to the Branch**:
+   ```bash
+     git push origin main
 ## License
 This project is open-source and free to use.
