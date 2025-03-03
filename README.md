@@ -62,7 +62,7 @@ Contributions are welcome! If you have any suggestions, bug reports, or feature 
    git commit -m 'Add some feature'
 4.**Push to the Branch**: 
 ```bash
-git push origin feature/YourFeatureName
+git push origin main
 ```
 ## License
 This project is open-source and free to use.
