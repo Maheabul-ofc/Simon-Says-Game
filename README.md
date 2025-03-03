@@ -37,7 +37,7 @@ To run this project locally, follow these steps:
    ```bash
    cd simon-says-game
    ```
-3. **Open the Project:**:
+3. **Open the Project:**: <br>
 Open the `index.html` file in your preferred web browser.
 Alternatively, you can simply download the project files and open `index.html` in your browser.
 
